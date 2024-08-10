@@ -1,6 +1,9 @@
 # glmchat
 
 A new Flutter project.
+API doc:https://maas.aminer.cn/dev/api
+icon：https://www.iconfont.cn/
+biliili:https://space.bilibili.com/1834448890
 
 ## Getting Started
 
