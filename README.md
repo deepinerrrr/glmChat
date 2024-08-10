@@ -1,9 +1,10 @@
 # glmchat
-
+基于GLM-4大模型的轻量AI聊天App
 A new Flutter project.
 API doc:https://maas.aminer.cn/dev/api
 icon：https://www.iconfont.cn/
 biliili:https://space.bilibili.com/1834448890
+聊天历史记录有bug,后续更新...
 
 ## Getting Started
 
